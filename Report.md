@@ -37,13 +37,13 @@ A smart contract has been written in Solidity to facilitate the transaction betw
 7. Upon confirming the transaction, ETH and USDC exchange happens between the sender and recipient, and both the wallets are updated with the new values.
 
 ## Images of the working application
-<img src='./DuoSwap_Contracts/images/application-frontend.jpeg'>
+<img src='./images/application-frontend.jpeg'>
 
-<img src='./DuoSwap_Contracts/images/ganache.jpeg'>
+<img src='./images/ganache.jpeg'>
 
-<img src='./DuoSwap_Contracts/images/wallet.jpeg'>
+<img src='./images/metamask-wallet.jpeg'>
 
-<img src='./DuoSwap_Contracts/images/application-frontend-with-wallet.jpeg'>
+<img src='./images/application-frontend-with-wallet.jpeg'>
 
 
 ## Team Members
